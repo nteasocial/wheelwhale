@@ -1,5 +1,5 @@
 {
-  "name": "rewheel",
+  "name": "wheelwhale",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,16 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch:css": "postcss src/style/tailwind.css -o build/build.css"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rrudling/rewheel.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rrudling/rewheel/issues"
-  },
-  "homepage": "https://github.com/rrudling/rewheel#readme",
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@babel/node": "^7.15.4",

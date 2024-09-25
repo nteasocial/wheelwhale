@@ -1,10 +1,13 @@
-# ReWheel
-A fullstack website for building, saving and viewing customizable bikes rendered in 3D.  
+# wheelwhale
+
+A fullstack website for building, saving and viewing customizable bikes rendered in 3D.
 
 **Database**
+
 - MongoDB
 
 **Backend**
+
 - TypeScript
 - NodeJS
 - Apollo (apollo-server-express)
@@ -13,6 +16,7 @@ A fullstack website for building, saving and viewing customizable bikes rendered
 - JWT
 
 **Frontend**
+
 - TypeScript
 - Webpack
 - React.js
@@ -24,13 +28,12 @@ A fullstack website for building, saving and viewing customizable bikes rendered
 
 # Bike builder
 
-![alt text](https://github.com/rasmus-rudling/rewheel/blob/main/images/builder_1.png)
+![alt text](https://github.com/rasmus-rudling/wheelwhale/blob/main/images/builder_1.png)
 
+![alt text](https://github.com/rasmus-rudling/wheelwhale/blob/main/images/builder_2.png)
 
-![alt text](https://github.com/rasmus-rudling/rewheel/blob/main/images/builder_2.png)
-
-![alt text](https://github.com/rasmus-rudling/rewheel/blob/main/images/builder_3.png)
-
+![alt text](https://github.com/rasmus-rudling/wheelwhale/blob/main/images/builder_3.png)
 
 # Discover
-![alt text](https://github.com/rasmus-rudling/rewheel/blob/main/images/discover.png)
+
+![alt text](https://github.com/rasmus-rudling/wheelwhale/blob/main/images/discover.png)
