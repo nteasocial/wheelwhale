@@ -28,12 +28,8 @@ A fullstack website for building, saving and viewing customizable bikes rendered
 
 # Bike builder
 
-![alt text](https://github.com/rasmus-rudling/wheelwhale/blob/main/images/builder_1.png)
+![alt text](https://github.com/rasmus-rudling/wheelwhale/images/builder_1.png)
 
-![alt text](https://github.com/rasmus-rudling/wheelwhale/blob/main/images/builder_2.png)
+![alt text](https://github.com/rasmus-rudling/wheelwhale/images/builder_2.png)
 
-![alt text](https://github.com/rasmus-rudling/wheelwhale/blob/main/images/builder_3.png)
-
-# Discover
-
-![alt text](https://github.com/rasmus-rudling/wheelwhale/blob/main/images/discover.png)
+![alt text](https://github.com/rasmus-rudling/wheelwhale/images/builder_3.png)
